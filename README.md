@@ -3,10 +3,10 @@
 
 ## 1일차
 - 개발환경 구축
-- 코딩폰트 - 나눔고딕코팅
-- Notepad++ 설치
-- Python 설치
-- Visual Studio Code 설치
+   - 코딩폰트 - 나눔고딕코팅
+   - Notepad++ 설치
+   - Python 설치
+   - Visual Studio Code 설치
 - Git 설치
     - TortoiseGit 설치
     - Github 가입
