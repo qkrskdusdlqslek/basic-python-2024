@@ -104,7 +104,7 @@
           - 사용방법 (test31_jupyternb.ipynb 참조)
      - folium 기본사용
      ![folium 사용법](https://raw.githubusercontent.com/qkrskdusdlqslek/basic-python-2024/main/images/python_001.png) 
-     - 느낌표[]()
+     
 
 ## 5일차
 - 파이썬 응용
