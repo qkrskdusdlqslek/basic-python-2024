@@ -116,9 +116,23 @@
           - QRCODE 만들기
 
 ## 6일차
+- Python 라이브러리 경로 : C:\DEV\Langs\Python311\Lib\site-packages
 - 파이썬 응용
-    -Window App(PyQt) 만들기
+    -Window App(PyQt) 만들기(명령프롬프트로 설치)
+
+    ```shell
+    > pip install PyQt5
+    > pip install PyQt5Designer -> Qt Designer -> designer.exe 작업줄에 고정
+   ```
         
+     - PyQt5 기본실행
+     - QtDesigner 사용법
+     - 쓰레드 학습 : UI쓰레드와 Background쓰레드 분리
+             - GIL, 병렬프로세싱 더 학습할 것
+             
+     ![쓰레드예제](https://raw.githubusercontent.com/qkrskdusdlqslek/basic-python-2024/main/images/python_002.gif)
+
+          
 
 - 가상환경
 
