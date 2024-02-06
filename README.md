@@ -169,6 +169,14 @@
          - 3.11에서 3.9 가상환경 만들려면 3.9버전 파이썬 설치필요
      - PyQt5와 응용예제 연습
          - 이미지 뷰어
+         - 이미지 에디터
+
+    ![PyQt예제](https://raw.githubusercontent.com/qkrskdusdlqslek/basic-python-2024/main/images/python_003.png)
+
+## 8일차
+- 파이썬 응용
+- 파이썬 기본 코딩테스트
+
        
 
 
