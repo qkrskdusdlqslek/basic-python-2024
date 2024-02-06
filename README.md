@@ -171,7 +171,8 @@
          - 이미지 뷰어
          - 이미지 에디터
 
-    ![PyQt예제](https://raw.githubusercontent.com/qkrskdusdlqslek/basic-python-2024/main/images/python_003.png)
+    ![쓰레드예제](https://raw.githubusercontent.com/qkrskdusdlqslek/basic-python-2024/main/images/python_003.png)
+    
 
 ## 8일차
 - 파이썬 응용
